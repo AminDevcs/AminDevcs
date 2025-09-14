@@ -1,9 +1,9 @@
 # 👨‍💻 Mohammad Amin Kavandi  
 ## 💻 Software Engineer  
 
-<p align="center">
-  <img src="images/avatar.jpg" alt="Avatar" width="200" style="border-radius:50%"/>
-</p>
+![My Coding Screen](https://github.com/AminDevcs/AminDevcs/blob/main/images/computer-technology-programming-digital-data-coding-blue-background-internet-security-concept_674594-55267.jpg
+?raw=true)
+
 
 
 
