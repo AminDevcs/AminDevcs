@@ -2,8 +2,9 @@
 ## 💻 Software Engineer  
 
 <p align="center">
-  <img src="images/img1.jpg" alt="Avatar" width="200" style="border-radius:50%"/>
+  <img src="images/avatar.jpg" alt="Avatar" width="200" style="border-radius:50%"/>
 </p>
+
 
 
 ---
